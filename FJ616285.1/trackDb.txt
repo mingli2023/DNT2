@@ -189,7 +189,7 @@ track 72h-PFA-No-Flavo_RV
 parent 72h-PFA-No-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/ DNT2/master/FJ616285.1/DNT2-PRO-Seq/72h-PFA-No-Flavo-dedup-RV-FJ616285.1.bw
+bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/72h-PFA-No-Flavo-dedup-RV-FJ616285.1.bw
 longLabel 72h PFA No Flavo
 shortLabel 72h PFA No Flavo
 negateValues on
