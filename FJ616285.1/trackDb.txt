@@ -292,8 +292,8 @@ parent UL87HF-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp2_72h_UL87HF_Flavo-dedup-FJ616285.1-FW.bw
-longLabel UL87HF Flavo
-shortLabel UL87HF Flavo
+longLabel UL87HF Flavo HFF
+shortLabel UL87HF Flavo HFF
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -306,8 +306,8 @@ parent UL87HF-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp2_72h_UL87HF_Flavo-dedup-FJ616285.1-RV.bw
-longLabel UL87HF Flavo
-shortLabel UL87HF Flavo
+longLabel UL87HF Flavo HFF
+shortLabel UL87HF Flavo HFF
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -330,8 +330,8 @@ parent UL87HF-Flavo-dTag
 type bigWig 0 1000
 visibility full
 bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp2_72h_UL87HF_Flavo_dTAG-dedup-FJ616285.1-FW.bw
-longLabel UL87HF dTag Flavo
-shortLabel UL87HF dTag Flavo
+longLabel UL87HF dTag Flavo HFF
+shortLabel UL87HF dTag Flavo HFF
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -344,8 +344,8 @@ parent UL87HF-Flavo-dTag
 type bigWig 0 1000
 visibility full
 bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp2_72h_UL87HF_Flavo_dTAG-dedup-FJ616285.1-RV.bw
-longLabel UL87HF dTag Flavo
-shortLabel UL87HF dTag Flavo
+longLabel UL87HF dTag Flavo HFF
+shortLabel UL87HF dTag Flavo HFF
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -368,8 +368,8 @@ parent UL87HF-Flavo-Exp3
 type bigWig 0 1000
 visibility full
 bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp3_72h_UL87HF_Flavo-dedup-FJ616285.1-FW.bw
-longLabel UL87HF Flavo Exp3
-shortLabel UL87HF Flavo Exp3
+longLabel UL87HF Flavo Exp3 HFF
+shortLabel UL87HF Flavo Exp3 HFF
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -382,8 +382,8 @@ parent UL87HF-Flavo-Exp3
 type bigWig 0 1000
 visibility full
 bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp3_72h_UL87HF_Flavo-dedup-FJ616285.1-RV.bw
-longLabel UL87HF Flavo Exp3
-shortLabel UL87HF Flavo Exp3
+longLabel UL87HF Flavo Exp3 HFF
+shortLabel UL87HF Flavo Exp3 HFF
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -406,8 +406,8 @@ parent UL87HF-Flavo-Exp3-PFA
 type bigWig 0 1000
 visibility full
 bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp3_72h_UL87HF_PFA_Flavo-dedup-FJ616285.1-FW.bw
-longLabel UL87HF Flavo Exp3 PFA
-shortLabel UL87HF Flavo Exp3 PFA
+longLabel UL87HF Flavo Exp3 PFA HFF
+shortLabel UL87HF Flavo Exp3 PFA HFF
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -420,8 +420,8 @@ parent UL87HF-Flavo-Exp3-PFA
 type bigWig 0 1000
 visibility full
 bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp3_72h_UL87HF_PFA_Flavo-dedup-FJ616285.1-RV.bw
-longLabel UL87HF Flavo Exp3 PFA
-shortLabel UL87HF Flavo Exp3 PFA
+longLabel UL87HF Flavo Exp3 PFA HFF
+shortLabel UL87HF Flavo Exp3 PFA HFF
 negateValues on
 color 153,58,29
 altColor 153,58,29
