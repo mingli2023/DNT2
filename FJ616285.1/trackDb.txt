@@ -277,4 +277,157 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 
-#############	 
+#############
+	 
+track UL87HF-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel UL87HF Flavo
+longLabel UL87HF Flavo
+	 
+track UL87HF-Flavo_FW
+parent UL87HF-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp2_72h_UL87HF_Flavo-dedup-FJ616285.1-FW.bw
+longLabel UL87HF Flavo
+shortLabel UL87HF Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track UL87HF-Flavo_RV
+parent UL87HF-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp2_72h_UL87HF_Flavo-dedup-FJ616285.1-RV.bw
+longLabel UL87HF Flavo
+shortLabel UL87HF Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track UL87HF-Flavo-dTag
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel UL87HF Flavo dTag
+longLabel UL87HF Flavo dTag
+	 
+track UL87HF-Flavo-dTag_FW
+parent UL87HF-Flavo-dTag
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp2_72h_UL87HF_Flavo_dTAG-dedup-FJ616285.1-FW.bw
+longLabel UL87HF dTag Flavo
+shortLabel UL87HF dTag Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track UL87HF-Flavo-dTag_RV
+parent UL87HF-Flavo-dTag
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp2_72h_UL87HF_Flavo_dTAG-dedup-FJ616285.1-RV.bw
+longLabel UL87HF dTag Flavo
+shortLabel UL87HF dTag Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track UL87HF-Flavo-Exp3
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel UL87HF Flavo Exp3
+longLabel UL87HF Flavo Exp3
+	 
+track UL87HF-Flavo-Exp3_FW
+parent UL87HF-Flavo-Exp3
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp3_72h_UL87HF_Flavo-dedup-FJ616285.1-FW.bw
+longLabel UL87HF Flavo Exp3
+shortLabel UL87HF Flavo Exp3
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track UL87HF-Flavo-Exp3_RV
+parent UL87HF-Flavo-Exp3
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp3_72h_UL87HF_Flavo-dedup-FJ616285.1-RV.bw
+longLabel UL87HF Flavo Exp3
+shortLabel UL87HF Flavo Exp3
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track UL87HF-Flavo-Exp3-PFA
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel UL87HF Flavo Exp3 PFA
+longLabel UL87HF Flavo Exp3 PFA
+	 
+track UL87HF-Flavo-Exp3-PFA_FW
+parent UL87HF-Flavo-Exp3-PFA
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp3_72h_UL87HF_PFA_Flavo-dedup-FJ616285.1-FW.bw
+longLabel UL87HF Flavo Exp3 PFA
+shortLabel UL87HF Flavo Exp3 PFA
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track UL87HF-Flavo-Exp3-PFA_RV
+parent UL87HF-Flavo-Exp3-PFA
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp3_72h_UL87HF_PFA_Flavo-dedup-FJ616285.1-RV.bw
+longLabel UL87HF Flavo Exp3 PFA
+shortLabel UL87HF Flavo Exp3 PFA
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+
