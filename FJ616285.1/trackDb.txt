@@ -22,7 +22,7 @@ track Mock-Flavo_FW
 parent Mock-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/Mock-Flavo-dedup-FW-FJ616285.1.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/Mock-Flavo-dedup-FW-FJ616285.1.bw
 longLabel Mock Flavo 
 shortLabel Mock Flavo
 negateValues off
@@ -36,7 +36,7 @@ track Mock-Flavo_RV
 parent Mock-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/Mock-Flavo-dedup-RV-FJ616285.1.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/Mock-Flavo-dedup-RV-FJ616285.1.bw
 longLabel Mock Flavo
 shortLabel Mock Flavo
 negateValues on
@@ -60,7 +60,7 @@ track 12h-Flavo_FW
 parent 12h-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/12h-Flavo-dedup-FW-FJ616285.1.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/12h-Flavo-dedup-FW-FJ616285.1.bw
 longLabel 12h Flavo 
 shortLabel 12h Flavo
 negateValues off
@@ -74,7 +74,7 @@ track 12h-Flavo_RV
 parent 12h-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/12h-Flavo-dedup-RV-FJ616285.1.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/12h-Flavo-dedup-RV-FJ616285.1.bw
 longLabel 12h Flavo
 shortLabel 12h Flavo
 negateValues on
@@ -100,7 +100,7 @@ track 72h-PFA-Flavo_FW
 parent 72h-PFA-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/72h-PFA-Flavo-dedup-FW-FJ616285.1.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/72h-PFA-Flavo-dedup-FW-FJ616285.1.bw
 longLabel 72h PFA Flavo
 shortLabel 72h PFA Flavo
 negateValues off
@@ -114,7 +114,7 @@ track 72h-PFA-Flavo_RV
 parent 72h-PFA-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/72h-PFA-Flavo-dedup-RV-FJ616285.1.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/72h-PFA-Flavo-dedup-RV-FJ616285.1.bw
 longLabel 72h PFA Flavo
 shortLabel 72h PFA Flavo
 negateValues on
@@ -139,7 +139,7 @@ track 72h-No-PFA-Flavo_FW
 parent 72h-No-PFA-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/72h-No-PFA-Flavo-dedup-FW-FJ616285.1.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/72h-No-PFA-Flavo-dedup-FW-FJ616285.1.bw
 longLabel 72h No PFA Flavo
 shortLabel 72h No PFA Flavo
 negateValues off
@@ -153,7 +153,7 @@ track 72h-No-PFA-Flavo_RV
 parent 72h-No-PFA-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/72h-No-PFA-Flavo-dedup-RV-FJ616285.1.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/72h-No-PFA-Flavo-dedup-RV-FJ616285.1.bw
 longLabel 72h No PFA Flavo
 shortLabel 72h No PFA Flavo
 negateValues on
@@ -177,7 +177,7 @@ track 12h-No-Flavo_FW
 parent 12h-No-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/12h-No-Flavo-dedup-FW-FJ616285.1.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/12h-No-Flavo-dedup-FW-FJ616285.1.bw
 longLabel 12h No Flavo
 shortLabel 12h No Flavo
 negateValues off
@@ -191,7 +191,7 @@ track 12h-No-Flavo_RV
 parent 12h-No-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/12h-No-Flavo-dedup-RV-FJ616285.1.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/12h-No-Flavo-dedup-RV-FJ616285.1.bw
 longLabel 12h No Flavo
 shortLabel 12h No Flavo
 negateValues on
@@ -215,7 +215,7 @@ track 72h-No-PFA-No-Flavo_FW
 parent 72h-No-PFA-No-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/72h-No-PFA-No-Flavo-dedup-FW-FJ616285.1.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/72h-No-PFA-No-Flavo-dedup-FW-FJ616285.1.bw
 longLabel 72h No PFA No Flavo 
 shortLabel 72h No PFA No Flavo
 negateValues off
@@ -229,7 +229,7 @@ track 72h-No-PFA-No-Flavo_RV
 parent 72h-No-PFA-No-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/72h-No-PFA-No-Flavo-dedup-RV-FJ616285.1.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/72h-No-PFA-No-Flavo-dedup-RV-FJ616285.1.bw
 longLabel 72h No PFA No Flavo
 shortLabel 72h No PFA No Flavo
 negateValues on
@@ -253,7 +253,7 @@ track 72h-PFA-No-Flavo_FW
 parent 72h-PFA-No-Flavo 
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/72h-PFA-No-Flavo-dedup-FW-FJ616285.1.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/72h-PFA-No-Flavo-dedup-FW-FJ616285.1.bw
 longLabel 72h PFA No Flavo
 shortLabel 72h PFA No Flavo
 negateValues off
@@ -267,7 +267,7 @@ track 72h-PFA-No-Flavo_RV
 parent 72h-PFA-No-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/72h-PFA-No-Flavo-dedup-RV-FJ616285.1.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/72h-PFA-No-Flavo-dedup-RV-FJ616285.1.bw
 longLabel 72h PFA No Flavo
 shortLabel 72h PFA No Flavo
 negateValues on
@@ -291,7 +291,7 @@ track UL87HF-Flavo_FW
 parent UL87HF-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp2_72h_UL87HF_Flavo-dedup-FJ616285.1-FW.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp2_72h_UL87HF_Flavo-dedup-FJ616285.1-FW.bw
 longLabel UL87HF Flavo HFF
 shortLabel UL87HF Flavo HFF
 negateValues off
@@ -305,7 +305,7 @@ track UL87HF-Flavo_RV
 parent UL87HF-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp2_72h_UL87HF_Flavo-dedup-FJ616285.1-RV.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp2_72h_UL87HF_Flavo-dedup-FJ616285.1-RV.bw
 longLabel UL87HF Flavo HFF
 shortLabel UL87HF Flavo HFF
 negateValues on
@@ -329,7 +329,7 @@ track UL87HF-Flavo-dTag_FW
 parent UL87HF-Flavo-dTag
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp2_72h_UL87HF_Flavo_dTAG-dedup-FJ616285.1-FW.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp2_72h_UL87HF_Flavo_dTAG-dedup-FJ616285.1-FW.bw
 longLabel UL87HF dTag Flavo HFF
 shortLabel UL87HF dTag Flavo HFF
 negateValues off
@@ -343,7 +343,7 @@ track UL87HF-Flavo-dTag_RV
 parent UL87HF-Flavo-dTag
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp2_72h_UL87HF_Flavo_dTAG-dedup-FJ616285.1-RV.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp2_72h_UL87HF_Flavo_dTAG-dedup-FJ616285.1-RV.bw
 longLabel UL87HF dTag Flavo HFF
 shortLabel UL87HF dTag Flavo HFF
 negateValues on
@@ -367,7 +367,7 @@ track UL87HF-Flavo-Exp3_FW
 parent UL87HF-Flavo-Exp3
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp3_72h_UL87HF_Flavo-dedup-FJ616285.1-FW.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp3_72h_UL87HF_Flavo-dedup-FJ616285.1-FW.bw
 longLabel UL87HF Flavo Exp3 HFF
 shortLabel UL87HF Flavo Exp3 HFF
 negateValues off
@@ -381,7 +381,7 @@ track UL87HF-Flavo-Exp3_RV
 parent UL87HF-Flavo-Exp3
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp3_72h_UL87HF_Flavo-dedup-FJ616285.1-RV.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp3_72h_UL87HF_Flavo-dedup-FJ616285.1-RV.bw
 longLabel UL87HF Flavo Exp3 HFF
 shortLabel UL87HF Flavo Exp3 HFF
 negateValues on
@@ -405,7 +405,7 @@ track UL87HF-Flavo-Exp3-PFA_FW
 parent UL87HF-Flavo-Exp3-PFA
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp3_72h_UL87HF_PFA_Flavo-dedup-FJ616285.1-FW.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp3_72h_UL87HF_PFA_Flavo-dedup-FJ616285.1-FW.bw
 longLabel UL87HF Flavo Exp3 PFA HFF
 shortLabel UL87HF Flavo Exp3 PFA HFF
 negateValues off
@@ -419,7 +419,7 @@ track UL87HF-Flavo-Exp3-PFA_RV
 parent UL87HF-Flavo-Exp3-PFA
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp3_72h_UL87HF_PFA_Flavo-dedup-FJ616285.1-RV.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/UL87/Exp3_72h_UL87HF_PFA_Flavo-dedup-FJ616285.1-RV.bw
 longLabel UL87HF Flavo Exp3 PFA HFF
 shortLabel UL87HF Flavo Exp3 PFA HFF
 negateValues on
