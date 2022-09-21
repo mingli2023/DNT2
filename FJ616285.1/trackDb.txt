@@ -469,3 +469,79 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############
+	 		 
+track 72h-No-PFA-Flavo-5’
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 72h No PFA Flavo 5’
+longLabel 72h No PFA Flavo 5’
+	 
+track 72h-No-PFA-Flavo-5’_FW
+parent 72h-No-PFA-Flavo 5’
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/72h-No-PFA-Flavo-dedup-FW-5prime-Towne.bw
+longLabel DNT2 Flavo 5’
+shortLabel DNT2 Flavo 5’
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 72h-No-PFA-Flavo-5’_RV
+parent 72h-No-PFA-Flavo-5’
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/72h-No-PFA-Flavo-dedup-RV-5prime-Towne.bw
+longLabel DNT2 Flavo 5’
+shortLabel DNT2 Flavo 5’
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+
+track 72h-No-PFA-No-Flavo-5’
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 72h No PFA No Flavo 5’
+longLabel 72h No PFA No Flavo 5’
+	 
+track 72h-No-PFA-No-Flavo-5’_FW
+parent 72h-No-PFA-No-Flavo-5’
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/72h-No-PFA-No-Flavo-dedup-FW-5prime-Towne.bw
+longLabel DNT2 5’
+shortLabel DNT2 5’
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 72h-No-PFA-No-Flavo-5’_RV
+parent 72h-No-PFA-No-Flavo-5’
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/DNT2/master/FJ616285.1/DNT2-PRO-Seq/72h-No-PFA-No-Flavo-dedup-RV-5prime-Towne.bw
+longLabel DNT2 5’
+shortLabel DNT2 5’
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	
+#############	
