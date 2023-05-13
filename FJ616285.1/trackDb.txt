@@ -800,7 +800,7 @@ track IE2FExp4-dTAG_RV
 parent IE2FExp4-dTAG
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/IE2FExp4-No-Flavo-dTAG-dedup-RV-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/IE2FExp4-No-Flavo-dTAG-dedup-RV-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 IE2F dTAG
 shortLabel Exp4 96h D-NT2 IE2F dTAG
 negateValues on
