@@ -698,43 +698,6 @@ maxHeightPixels 128:128:16
 
 #############
 	 
-track WTExp4PFA-Flavo
-compositeTrack on
-type bigWig 0 1000
-priority 5
-visibility full
-shortLabel Exp4 96h D-NT2 WT PFA Flavo
-longLabel WTExp4PFA Flavo
-	 
-track WTExp4PFA-Flavo_FW
-parent WTExp4PFA-Flavo
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/WTExp4-PFA-Flavo-dedup-FW-FJ616285.1.bw
-longLabel Exp4 96h D-NT2 WT PFA Flavo
-shortLabel Exp4 96h D-NT2 WT PFA Flavo
-negateValues off
-color 153,58,29
-altColor 153,58,29
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-	 
-track WTExp4PFA-Falvo_RV
-parent WTExp4PFA-Flavo
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/WTExp4-PFA-Flavo-dedup-RV-FJ616285.1.bw
-longLabel Exp4 96h D-NT2 WT PFA Flavo
-shortLabel Exp4 96h D-NT2 WT PFA Flavo
-negateValues on
-color 153,58,29
-altColor 153,58,29
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-#############
 	 
 track CKExp4-Flavo
 compositeTrack on
