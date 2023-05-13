@@ -507,7 +507,7 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############
-#############	 
+ 
 track WTExp4
 compositeTrack on
 type bigWig 0 1000
@@ -537,44 +537,6 @@ visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/WTExp4-dedup-RV-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 WT 
 shortLabel Exp4 96h D-NT2 WT 
-negateValues on
-color 113,35,124
-altColor 113,35,124
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-#############
-
-track WTExp4PFA
-compositeTrack on
-type bigWig 0 1000
-priority 4
-visibility full
-shortLabel Exp4 96h D-NT2 WT PFA
-longLabel WTExp4PFA
-	 
-track WTExp4PFA_FW
-parent WTPFAExp4
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/WTExp4-PFA-dedup-FW-FJ616285.1.bw
-longLabel Exp4 96h D-NT2 WT PFA
-shortLabel Exp4 96h D-NT2 WT PFA
-negateValues off
-color 113,35,124
-altColor 113,35,124
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-	 
-track WTExp4PFA_RV
-parent WTExp4PFA
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/WTExp4-PFA-dedup-RV-FJ616285.1.bw
-longLabel Exp4 96h D-NT2 WT PFA
-shortLabel Exp4 96h D-NT2 WT PFA
 negateValues on
 color 113,35,124
 altColor 113,35,124
